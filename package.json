@@ -1,0 +1,17 @@
+{
+  "name": "egg-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "egg-bin dev",
+    "test":"egg-bin test",
+    "cov":"egg-bin cov"
+  },
+  "dependencies": {
+    "egg": "^2.26.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "egg-bin": "^4.14.1"
+  }
+}
